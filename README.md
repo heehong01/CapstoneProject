@@ -10,6 +10,6 @@
 ###### - As a User I want to be able to create a profile, so that I can see what items that I have liked/are on my wish list and track/see my order history. 
 
 
-======
+
 #### Techincal Challenges:
 ------
